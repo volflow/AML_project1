@@ -1,1 +1,1 @@
-# AML_project1
+# AML_projects
